@@ -1,9 +1,9 @@
 ---
 section: issue
 title: Planned Maintenance
-date: 2020-01-10T21:00:20.744Z
-resolved: false
-resolvedWhen: 2020-01-10T03:00:26.770Z
+date: 2020-01-11T21:00:20.744Z
+resolved: true
+resolvedWhen: 2020-01-11T21:05:26.770Z
 affected:
   - MGG Server
   - Community Forums
