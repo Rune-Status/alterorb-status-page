@@ -11,4 +11,4 @@ severity: down
 ---
 ~~All services will be taken offline for server migration later today.~~
 
-Some unforeseen things happened and i couldn't finish the server migration, both the game server and the forum remain offline until further notice.
+Some unforeseen things happened and the server migration was not finished, both the game server and the forum remain offline until further notice.
