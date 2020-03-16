@@ -7,6 +7,8 @@ resolvedWhen: 2020-03-14T13:28:28.185Z
 affected:
   - MGG Server
   - Community Forums
-severity: notice
+severity: down
 ---
-All services will be taken offline for server migration later today.
+~~All services will be taken offline for server migration later today.~~
+
+Some unforeseen things happened and i couldn't finish the server migration, both the game server and the forum remain offline until further notice.
