@@ -107,7 +107,6 @@ params:
   systems:
     - name: MGG Server
       description: The server that powers all of the supported games.
-    - name: Community Forums
 
   # What date format to use?
   #
